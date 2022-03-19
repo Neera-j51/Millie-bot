@@ -196,7 +196,7 @@ conn.logger.level = 'debug'
 Now set using switch [enable.js](https://github.com/Neeraj-51/Millie/blob/master/plugins/enable.js), among others are
 
 ```js
-anticall: false, // Auto Reject better than autoblock
+anticall: true, // Auto Reject better than autoblock
 autoread: false, // If true all chats are automatically read
 nyimak: false, // No bot, just print received messages and add users to database
 restrict: false, // Enables restricted plugins (which can lead your number to be banned if used too often)
@@ -210,9 +210,9 @@ jadibot: false,
 ## Developers
   <div align="center">
     
-  [![I_AM_DEVIL](https://telegra.ph/file/fb0b36ed9cdcf93b24df7.jpg?size=25)](https://github.com/D-3-V-1-L) |  [![Neeraj](https://telegra.ph/file/74e9659166febabb45aa0.jpg?size=100)](https://github.com/Neeraj-x0) | [![Ajmal-Achu](https://telegra.ph/file/fa920b55caaa8e8be6f04.jpg?size=100)](https://github.com/Ajmal-Achu) 
-----|----|----
-[I_AM_DEVIL](https://github.com/Neera-j51)  | [Neeraj](https://github.com/Neeraj-51) | [Ajmal-Achu](https://github.com/Neera-j51)
+  
+
+[Neeraj](https://github.com/Neeraj-5)
 Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
   </div>
                                   
@@ -222,7 +222,7 @@ Base, Bug Fixes, Modules | Bug fixes, Modules | Bug Fixes, Modules
   
 ### THANKS TO :
   
-- [Nurutomo](https://github.com/Nurutomo) 
+- [Neera-j51](https://github.com/Neera-j51) 
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys)
  
 
